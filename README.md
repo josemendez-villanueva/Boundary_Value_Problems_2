@@ -1,1 +1,1 @@
-# Boundary_Value_Problems_2
+This project consisted of using Numerical Methods in order to model several different types of PDE's. Looked at several different factors of the PDE's such as stability and instability while also comparing different Numerical Methods.
